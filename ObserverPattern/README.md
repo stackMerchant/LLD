@@ -1,6 +1,6 @@
 Contains a simple code illustration of Observer Design Pattern
 
-Below is sample output
+OUTPUT:
 
 === Start Application ===
 
