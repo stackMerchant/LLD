@@ -1,4 +1,4 @@
-************************ RUN (X wins) ************************
+************************ RUN 1 (X wins) ************************
 
 === Start Application ===
 == Board ==
@@ -45,7 +45,7 @@ Enter column: 1
 Player 1 (X) has won
 === End Application ===
 
-************************ RUN (in valid input) ************************
+************************ RUN 2 (invalid input) ************************
 
 === Start Application ===
 == Board ==
@@ -72,7 +72,7 @@ Invalid position entered
 Player 2 (O), please enter position...
 Enter row:
 
-************************ RUN (Draw) ************************
+************************ RUN 3 (Draw) ************************
 
 === Start Application ===
 == Board ==
