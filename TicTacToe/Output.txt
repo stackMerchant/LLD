@@ -1,0 +1,152 @@
+************************ RUN (X wins) ************************
+
+=== Start Application ===
+== Board ==
+ _  _  _
+ _  _  _
+ _  _  _
+Player 1 (X), please enter position...
+Enter row: 0
+Enter column: 0
+
+== Board ==
+ X  _  _
+ _  _  _
+ _  _  _
+Player 2 (O), please enter position...
+Enter row: 2
+Enter column: 0
+
+== Board ==
+ X  _  _
+ _  _  _
+ O  _  _
+Player 1 (X), please enter position...
+Enter row: 0
+Enter column: 2
+
+== Board ==
+ X  _  X
+ _  _  _
+ O  _  _
+Player 2 (O), please enter position...
+Enter row: 1
+Enter column: 0
+
+== Board ==
+ X  _  X
+ O  _  _
+ O  _  _
+Player 1 (X), please enter position...
+Enter row: 0
+Enter column: 1
+
+== Result ==
+Player 1 (X) has won
+=== End Application ===
+
+************************ RUN (in valid input) ************************
+
+=== Start Application ===
+== Board ==
+ _  _  _
+ _  _  _
+ _  _  _
+Player 1 (X), please enter position...
+Enter row: 0
+Enter column: 0
+
+== Board ==
+ X  _  _
+ _  _  _
+ _  _  _
+Player 2 (O), please enter position...
+Enter row: 0
+Enter column: 0
+Invalid position entered
+
+== Board ==
+ X  _  _
+ _  _  _
+ _  _  _
+Player 2 (O), please enter position...
+Enter row:
+
+************************ RUN (Draw) ************************
+
+=== Start Application ===
+== Board ==
+ _  _  _
+ _  _  _
+ _  _  _
+Player 1 (X), please enter position...
+Enter row: 0
+Enter column: 0
+
+== Board ==
+ X  _  _
+ _  _  _
+ _  _  _
+Player 2 (O), please enter position...
+Enter row: 1
+Enter column: 1
+
+== Board ==
+ X  _  _
+ _  O  _
+ _  _  _
+Player 1 (X), please enter position...
+Enter row: 0
+Enter column: 2
+
+== Board ==
+ X  _  X
+ _  O  _
+ _  _  _
+Player 2 (O), please enter position...
+Enter row: 0
+Enter column: 1
+
+== Board ==
+ X  O  X
+ _  O  _
+ _  _  _
+Player 1 (X), please enter position...
+Enter row: 2
+Enter column: 1
+
+== Board ==
+ X  O  X
+ _  O  _
+ _  X  _
+Player 2 (O), please enter position...
+Enter row: 1
+Enter column: 0
+
+== Board ==
+ X  O  X
+ O  O  _
+ _  X  _
+Player 1 (X), please enter position...
+Enter row: 1
+Enter column: 2
+
+== Board ==
+ X  O  X
+ O  O  X
+ _  X  _
+Player 2 (O), please enter position...
+Enter row: 2
+Enter column: 2
+
+== Board ==
+ X  O  X
+ O  O  X
+ _  X  O
+Player 1 (X), please enter position...
+Enter row: 2
+Enter column: 0
+
+== Result ==
+Draw
+=== End Application ===
