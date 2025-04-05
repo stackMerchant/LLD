@@ -1,0 +1,42 @@
+=== Start Application ===
+Player1 1
+Player2 1
+Player1 3
+Player2 2
+Player1 7
+Player2 3
+Player1 10
+Player2 9
+Player1 11
+Player2 10
+Player1 13
+Player2 11
+Player1 16
+Player2 13
+Player1 20
+Player2 17
+Player1 23
+Player2 20
+Player1 26
+Player2 25
+Player1 28
+Player2 27
+Player1 70
+Player2 28
+Player1 72
+Player2 31
+Player1 75
+Player2 32
+Player1 20
+Player2 34
+Player1 21
+Player2 35
+Player1 24
+Player2 90
+Player1 26
+Player2 96
+Player1 28
+Player2 100
+== Result ==
+Player2 has won
+=== End Application ===
