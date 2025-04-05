@@ -47,6 +47,7 @@ public class Game {
             System.out.println();
         }
 
+        // Declare result
         System.out.println("== Result ==");
         if (winner == null) System.out.println("Draw");
         else System.out.println(winner.getDisplayName() + " has won");
