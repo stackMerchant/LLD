@@ -1,0 +1,14 @@
+=== Start Application ===
+VEHICLE_1, parked at: 1
+VEHICLE_2, parked at: 2
+VEHICLE_2, already parked at: 2
+VEHICLE_3, parked at: 3
+Parking full
+VEHICLE_4 is not in lot
+VEHICLE_2, removed from spot: 2
+VEHICLE_4, parked at: 2
+** Parked Vehicles **
+Spot: 1 is occupied by: VEHICLE_1
+Spot: 2 is occupied by: VEHICLE_4
+Spot: 3 is occupied by: VEHICLE_3
+=== End Application ===
