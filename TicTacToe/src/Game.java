@@ -16,7 +16,7 @@ public class Game {
     void playGame() {
         playerWithChance = player1;
 
-        // While there is no winner and board is not full
+        // Keep playing the game while there is no winner and board is not full
         while (winner == null && !board.isFull()) {
             // Display board
             board.displayBoard();
