@@ -1,0 +1,58 @@
+=== Start Application ===
+
+Machine is idle...
+
+RUN 1: Happy flow
+
+Insert coins now...
+Coin added
+Coin added
+Coin added
+
+Select product...
+Product at position: 1001 selected
+
+Dispensing...
+Selected product: P1 and it costs: 1
+Inserted money: 3
+Dispensed product: P1
+Dispensed change: 2
+
+Machine is idle...
+
+RUN 2: Insufficient money
+
+Insert coins now...
+Coin added
+
+Select product...
+Product at position: 1002 selected
+
+Dispensing...
+Selected product: P2 and it costs: 2
+Inserted money: 1
+Insufficient money: 1
+Returning money: 1
+
+Machine is idle...
+
+RUN 3: Try to move ahead without inserting money, then abort
+
+Insert coins now...
+No money inserted
+Aborted
+
+Machine is idle...
+
+RUN 4: Try to move ahead without selecting product, then abort
+
+Insert coins now...
+Coin added
+
+Select product...
+No product selected
+Aborted
+Dispensed money: 1
+
+Machine is idle...
+=== End Application ===
