@@ -1,0 +1,16 @@
+=== Start Application ===
+12 => TWELVE
+1000 => ONE_THOUSAND
+
+MyHashMap entries:
+Index/HashCode: 0 => {1000, ONE_THOUSAND} 
+Index/HashCode: 1 => {1, ONE} 
+Index/HashCode: 2 => {72, SEVENTY_TWO} {12, TWELVE} {2, TWO} 
+Index/HashCode: 3 => 
+Index/HashCode: 4 => 
+Index/HashCode: 5 => 
+Index/HashCode: 6 => 
+Index/HashCode: 7 => 
+Index/HashCode: 8 => 
+Index/HashCode: 9 => {19, NINETEEN} 
+=== End Application ===
