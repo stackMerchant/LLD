@@ -13,7 +13,7 @@ public class RequestProcessor implements Runnable {
             try {
                 while (requestQueue.isEmpty()) {
                     System.out.println("Waiting for requests...");
-                    Thread.sleep(500);
+                    Thread.sleep(500); // Can also use wait and notify here
                 }
                 popAndProcess();
             } catch (Exception e) {

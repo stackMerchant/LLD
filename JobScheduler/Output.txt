@@ -1,0 +1,8 @@
+=== Start Application ===
+=== End Application ===
+Worker: 1 completed job: JOB_1
+Worker: 2 completed job: JOB_3
+Worker: 2 completed job: JOB_5
+Worker: 3 completed job: JOB_2
+Worker: 1 completed job: JOB_4
+Worker: 2 completed job: JOB_6
