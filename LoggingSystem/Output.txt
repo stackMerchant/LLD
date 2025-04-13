@@ -1,0 +1,5 @@
+=== Start Application ===
+ERROR => An error log
+DEBUG => A debug log
+INFO => An info log
+=== End Application ===
