@@ -1,0 +1,5 @@
+=== Start Application ===
+Access Denied to: TEACHER
+Access Denied to: STUDENT
+Created a student
+=== End Application ===
